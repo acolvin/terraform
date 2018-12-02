@@ -5,9 +5,8 @@ fingerprint      = "23:75:d2:13:91:c9:76:3c:72:b1:72:39:78:7e:90:2a"
 private_key_path = "api_key_acolvin.pem"
 #compartment_ocid = "ocid1.compartment.oc1..aaaaaaaa5ge55kvuy3q2quigik4uleyo5tr4zetpmh22yp3cf7z4ulbl2xbq"
 region           = "us-ashburn-1"
-compartment_name = "acolvin40"
+compartment_name = "ukoug"
 
-#authorized_ips_to_acolvin1    = "104.186.179.65/32"
 authorized_ips_to_acolvin1    = "209.116.210.58/32"
 
 # ========== NO NEED TO UPDATE LINES BELOW
