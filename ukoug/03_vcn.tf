@@ -19,7 +19,7 @@ resource "oci_core_internet_gateway" "tf-ukoug-ig" {
   vcn_id         = "${oci_core_virtual_network.tf-ukoug-vcn.id}"
 }
 
-# ====== NETWORK OBJECTS FOR BASTION
+# ====== NETWORK OBJECTS FOR acolvin1
 
 # ------ Create a new Route Table for acolvin1 subnet
 resource "oci_core_route_table" "tf-ukoug-acolvin1-rt" {
